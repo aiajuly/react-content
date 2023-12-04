@@ -1,6 +1,6 @@
 // we use the ternary opperator all the time in react
 
-export default function returnBiggerNumber(){
+export default function ReturnBiggerNumber(){
     const num1 = 3;
     const num2 = 5;
     return(
@@ -10,7 +10,7 @@ export default function returnBiggerNumber(){
     );
 }
 
-export default function returnBiggerNumber(){
+export default function ReturnBiggerNumber(){
     const num1 = 3;
     const num2 = 5;
     return(

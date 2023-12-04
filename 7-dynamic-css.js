@@ -1,6 +1,6 @@
 // every element will have a style attribute which take a js object that contains the styles( these styles will be camelCased: fontSize), using this we can add dynamic content
 
-export default function returnBiggerNumber(){
+export default function ReturnBiggerNumber(){
     const num1 = 3;
     const num2 = 5;
     const styles = {color: num1 > num2 ? 'green' : 'red'}
