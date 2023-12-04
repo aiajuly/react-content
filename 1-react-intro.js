@@ -15,18 +15,18 @@
 // let's create our first component
 // the function's component must start with an upper case letter
 
-// function Greeting() {
-//     return <h1>Hello<h1/>
-// }
+function Greeting() {
+    return <h1>Hello</h1>
+}
 
 // let's render this component
 
-// export default function App() {
-//     return (
-//       <div className="App">
+export default function App() {
+    return (
+      <div className="App">
         
-//         <Greeting/>
+        <Greeting/>
 
-//       </div>
-//     );
-//   }
+      </div>
+    );
+  }
