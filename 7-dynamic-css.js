@@ -1,4 +1,4 @@
-// every element will have a style attribute which take a js object that contains the styles( these styles will be camelCased: fontSize), using this we can add dynamic content
+// every element can have a style attribute which take a js object that contains the styles( these styles will be camelCased: fontSize), using this we can add dynamic content
 
 export default function ReturnBiggerNumber(){
     const num1 = 3;

@@ -1,4 +1,4 @@
-// we use the ternary opperator all the time in react
+// we usually use the ternary opperator all the time in react
 
 export default function ReturnBiggerNumber(){
     const num1 = 3;
