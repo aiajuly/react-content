@@ -17,6 +17,7 @@ export default function IncrementNum(){
 
 
 // rather than passing the state value directly, we can pass a function to useState() that will set and return the state value
+// useState(func)
 
 
 
