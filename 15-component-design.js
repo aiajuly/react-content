@@ -11,7 +11,8 @@
 // we can pass functions as props( Woooow :|)
 
 
-// we canpass a function as a prop, this function can change the state
+// we can pass a function as a prop, this function can change the state
+// pass a function down from the parent to the child and in the child execute it to impact the parent
 // image a button component with a onClick: when you render it pass a propFunc that change the state and use that function for the onClick={propFunc}
 // how data flows?
 // a parent component defines a function
