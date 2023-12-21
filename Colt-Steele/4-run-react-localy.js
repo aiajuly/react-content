@@ -1,4 +1,3 @@
-// npm i vite
-// cd to the folder
+// npm create vite .
 // npm i
 //npm run dev
