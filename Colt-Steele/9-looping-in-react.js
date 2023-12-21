@@ -1,4 +1,4 @@
-// we use map method alot in react to loop through arrays
+// we use map method a lot in react to loop through arrays
 
 
 
